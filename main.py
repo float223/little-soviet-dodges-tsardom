@@ -23,7 +23,7 @@ pygame.font.init()
 
 WIDTH, HEIGHT = 750, 750
 WIN = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Space Shooter Tutorial")
+pygame.display.set_caption("Little Soviet | Dodge Tsardom of russia | Made for comorades")
 
 # Load images
 
